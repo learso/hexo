@@ -1,0 +1,116 @@
+Updating abf6c9c..59122e3
+Fast-forward
+ source/_posts/auto-publish-on-vps.md |    4 ++++
+ 1 files changed, 4 insertions(+), 0 deletions(-)
+INFO  Start processing
+INFO  Files loaded in 1.12 s
+INFO  Generated: atom.xml
+INFO  Generated: 2016/07/09/auto-publish-on-vps/index.html
+INFO  Generated: index.html
+INFO  3 files generated in 1.45 s
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+[master 58121c5] Site updated: 2016-07-09 11:21:31
+ Committer: root <root@blog-432314-25e98d00-icizy.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 3 files changed, 18 insertions(+), 12 deletions(-)
+Branch master set up to track remote branch master from git@github.com:learso/learso.github.io.
+INFO  Deploy done: git
+Updating 59122e3..7967c4c
+Fast-forward
+ git_pull                             |    1 +
+ git_push                             |    3 +++
+ source/_posts/auto-publish-on-vps.md |    5 +++--
+ 3 files changed, 7 insertions(+), 2 deletions(-)
+ create mode 100644 git_pull
+ create mode 100644 git_push
+INFO  Start processing
+INFO  Files loaded in 1.01 s
+INFO  Generated: atom.xml
+INFO  Generated: 2016/07/09/auto-publish-on-vps/index.html
+INFO  Generated: index.html
+INFO  3 files generated in 1.41 s
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+[master 7d05dc2] Site updated: 2016-07-09 11:27:29
+ Committer: root <root@blog-432314-25e98d00-icizy.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 3 files changed, 17 insertions(+), 18 deletions(-)
+Branch master set up to track remote branch master from git@github.com:learso/learso.github.io.
+INFO  Deploy done: git
+Updating 7967c4c..56733da
+Fast-forward
+ source/_posts/auto-publish-on-vps.md |   31 +++++++++++++++++--------------
+ 1 files changed, 17 insertions(+), 14 deletions(-)
+INFO  Start processing
+INFO  Files loaded in 1.02 s
+INFO  Generated: atom.xml
+INFO  Generated: 2016/07/09/auto-publish-on-vps/index.html
+INFO  Generated: index.html
+INFO  3 files generated in 1.45 s
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+[master 44f0850] Site updated: 2016-07-09 12:56:15
+ Committer: root <root@blog-432314-25e98d00-icizy.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 3 files changed, 13 insertions(+), 7 deletions(-)
+Updating 56733da..5dec758
+Fast-forward
+ source/_posts/auto-publish-on-vps.md |    3 +++
+ 1 files changed, 3 insertions(+), 0 deletions(-)
+INFO  Start processing
+INFO  Files loaded in 1.12 s
+INFO  Generated: atom.xml
+INFO  Generated: 2016/07/09/auto-publish-on-vps/index.html
+INFO  Generated: index.html
+INFO  3 files generated in 1.96 s
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+[master 09e6095] Site updated: 2016-07-10 15:57:02
+ Committer: lerso <root@blog-432314-25e98d00-icizy.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 3 files changed, 13 insertions(+), 7 deletions(-)
