@@ -16,5 +16,5 @@ categories: 行
 ### 12:54在手机上用网页编辑
 手机登入网页，编辑，提交，测试能不能触发webhooks
 
-### 07-10 5:54
+### 07-10 5:54 发布到多平台
 手机上发布还是有点不方便，主要问题时iphone上没有好用得git软件支持oschina。今天折腾了一下hexo发布到多平台，分别发不到github和coding.net，然后cname解析是设定国内的到coding.net，国外的到github，这样提高一下速度。
