@@ -70,8 +70,12 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo: git@github.com:learso/learso.github.io
+- type: git
+  repo: git@git.coding.net:learso/learso.git
+  branch: coding-pages
+
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
