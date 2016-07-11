@@ -21,3 +21,6 @@ categories: 行
 
 ### 07-11 16：09
 之前部署在[网易蜂巢](http://c.163.com)上，觉得后期可能不再续费，所以另外部署到了[Vultr](http://www.vultr.com)上。
+
+### 07-11 22：21
+zheng'ti整体qian'yi整体迁移dao整体迁移到le整体迁移到了githubshang
