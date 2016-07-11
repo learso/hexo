@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.learso.com/"/>
-  <updated>2016-07-10T07:56:57.000Z</updated>
+  <updated>2016-07-10T08:26:17.000Z</updated>
   <id>http://blog.learso.com/</id>
   
   <author>
@@ -20,12 +20,12 @@
     <link href="http://blog.learso.com/2016/07/09/auto-publish-on-vps/"/>
     <id>http://blog.learso.com/2016/07/09/auto-publish-on-vps/</id>
     <published>2016-07-09T02:55:03.000Z</published>
-    <updated>2016-07-10T07:56:57.000Z</updated>
+    <updated>2016-07-10T08:26:17.000Z</updated>
     
     <content type="html">&lt;h3 id=&quot;10-55第一次尝试&quot;&gt;&lt;a href=&quot;#10-55第一次尝试&quot; class=&quot;headerlink&quot; title=&quot;10:55第一次尝试&quot;&gt;&lt;/a&gt;10:55第一次尝试&lt;/h3&gt;&lt;p&gt;今天在VSP上搭了环境，自动发布hexo博客，这是一篇测试稿，成功后会详细介绍。&lt;/p&gt;
 &lt;h3 id=&quot;11-19第二次尝试&quot;&gt;&lt;a href=&quot;#11-19第二次尝试&quot; class=&quot;headerlink&quot; title=&quot;11:19第二次尝试&quot;&gt;&lt;/a&gt;11:19第二次尝试&lt;/h3&gt;&lt;p&gt;第一次尝试失败了，因为oschina的webhooks发的是post请求，而我VPS上的Flask用的是GET请求。修改程序后再试一次。&lt;br&gt;已经验证成功了!&lt;/p&gt;
 &lt;h3 id=&quot;12-54在手机上用网页编辑&quot;&gt;&lt;a href=&quot;#12-54在手机上用网页编辑&quot; class=&quot;headerlink&quot; title=&quot;12:54在手机上用网页编辑&quot;&gt;&lt;/a&gt;12:54在手机上用网页编辑&lt;/h3&gt;&lt;p&gt;手机登入网页，编辑，提交，测试能不能触发webhooks&lt;/p&gt;
-&lt;h3 id=&quot;07-10-5-54&quot;&gt;&lt;a href=&quot;#07-10-5-54&quot; class=&quot;headerlink&quot; title=&quot;07-10 5:54&quot;&gt;&lt;/a&gt;07-10 5:54&lt;/h3&gt;&lt;p&gt;手机上发布还是有点不方便，主要问题时iphone上没有好用得git软件支持oschina。今天折腾了一下hexo发布到多平台，分别发不到github和coding.net，然后cname解析是设定国内的到coding.net，国外的到github，这样提高一下速度。&lt;/p&gt;
+&lt;h3 id=&quot;07-10-5-54-发布到多平台&quot;&gt;&lt;a href=&quot;#07-10-5-54-发布到多平台&quot; class=&quot;headerlink&quot; title=&quot;07-10 5:54 发布到多平台&quot;&gt;&lt;/a&gt;07-10 5:54 发布到多平台&lt;/h3&gt;&lt;p&gt;手机上发布还是有点不方便，主要问题时iphone上没有好用得git软件支持oschina。今天折腾了一下hexo发布到多平台，分别发不到github和coding.net，然后cname解析是设定国内的到coding.net，国外的到github，这样提高一下速度。现在可以通过网页写文章了&lt;/p&gt;
 </content>
     
     <summary type="html">
