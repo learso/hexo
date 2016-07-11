@@ -18,3 +18,6 @@ categories: 行
 
 ### 07-10 5:54 发布到多平台
 手机上发布还是有点不方便，主要问题时iphone上没有好用得git软件支持oschina。今天折腾了一下hexo发布到多平台，分别发不到github和coding.net，然后cname解析是设定国内的到coding.net，国外的到github，这样提高一下速度。现在可以通过网页写文章了
+
+### 07-11 16：09
+之前部署在[网易蜂巢](http://c.163.com)上，觉得后期可能不再续费，所以另外部署到了[Vultr](http://www.vultr.com)上。
