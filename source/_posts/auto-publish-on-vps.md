@@ -31,3 +31,6 @@ published: true
 ### 07-12 11:55
 买了个新的VPS，打算放弃vultr，重新部署。现在彻底放到搬瓦工上，刚整理好环境。
 
+```sh
+yum install openssl-devel
+```
