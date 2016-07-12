@@ -1,8 +1,11 @@
 ---
 title: VPS上搭建自动发布hexo博客的环境
-date: 2016-07-09 10:55:03
-tags: [vps,hexo]
+date: {}
+tags:
+  - vps
+  - hexo
 categories: 行
+published: true
 ---
 
 
@@ -23,4 +26,5 @@ categories: 行
 之前部署在[网易蜂巢](http://c.163.com)上，觉得后期可能不再续费，所以另外部署到了[Vultr](http://www.vultr.com)上。
 
 ### 07-11 22：21
-zheng'ti整体qian'yi整体迁移dao整体迁移到le整体迁移到了githubshang
+整体迁移到github上
+
