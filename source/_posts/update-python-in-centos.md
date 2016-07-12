@@ -48,3 +48,10 @@ vim /usr/bin/yum
 ```
 ln -s /usr/local/bin/pip3 /usr/bin/pip
 ```
+
+#### 补充
+> make install python时可能报pip不能安装，缺少ssl之类的，执行下面命令可以解决：
+
+```sh
+yum install openssl-devel
+```
