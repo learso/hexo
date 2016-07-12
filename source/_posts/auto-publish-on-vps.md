@@ -29,7 +29,7 @@ published: true
 整体迁移到github上
 
 ### 07-12 11:55
-买了个新的VPS，打算放弃vultr，重新部署。现在彻底放到搬瓦工上，刚整理好环境。还是不行。
+买了个新的VPS，打算放弃vultr，重新部署。现在彻底放到搬瓦工上，刚整理好环境。还是不行。？？？
 
 ```sh
 yum install openssl-devel
